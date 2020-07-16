@@ -8,7 +8,7 @@ export default class App extends React.Component{
       <div className="container"> <h2>This is a markdown converter with React</h2>
          <div className="App"> 
          <textarea id="text" value="" type="text"></textarea>
-         <div id="preview" />
+         <div id="preview">
 
          </div>
           </div>
